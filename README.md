@@ -35,6 +35,7 @@
 | [0228-summary-ranges](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0228-summary-ranges) |
 | [0463-island-perimeter](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0542-01-matrix) |
+| [0575-distribute-candies](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0575-distribute-candies) |
 | [0733-flood-fill](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1020-number-of-enclaves) |
@@ -52,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0575-distribute-candies) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |

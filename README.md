@@ -32,6 +32,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0200-number-of-islands) |
+| [0228-summary-ranges](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0228-summary-ranges) |
 | [0542-01-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0994-rotting-oranges) |

@@ -39,6 +39,7 @@
 | [0575-distribute-candies](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0697-degree-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0697-degree-of-an-array) |
 | [0733-flood-fill](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1020-number-of-enclaves) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0575-distribute-candies](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0575-distribute-candies) |
+| [0697-degree-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0697-degree-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |

@@ -15,6 +15,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -22,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -51,6 +53,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3620-network-recovery-pathways) |
@@ -65,6 +68,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -85,6 +89,7 @@
 ## Counting
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
@@ -105,6 +110,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -224,6 +230,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -231,4 +238,8 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->

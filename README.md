@@ -74,6 +74,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -108,6 +109,7 @@
 | [0005-longest-palindromic-substring](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0005-longest-palindromic-substring) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -115,6 +117,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Binary Search
 |  |
 | ------- |

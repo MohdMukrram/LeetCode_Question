@@ -139,6 +139,7 @@
 | [0542-01-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0802-find-eventual-safe-states) |
@@ -165,6 +166,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -191,6 +193,7 @@
 | [0207-course-schedule](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0802-find-eventual-safe-states) |
@@ -202,6 +205,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3620-network-recovery-pathways) |
@@ -222,6 +226,7 @@
 | [0463-island-perimeter](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0802-find-eventual-safe-states) |

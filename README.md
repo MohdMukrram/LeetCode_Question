@@ -6,6 +6,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0005-longest-palindromic-substring) |
 | [0542-01-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0542-01-matrix) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -48,6 +49,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0697-degree-of-an-array) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1020-number-of-enclaves) |
@@ -119,11 +121,13 @@
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0643-maximum-average-subarray-i) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Binary Search
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
@@ -279,4 +283,12 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->

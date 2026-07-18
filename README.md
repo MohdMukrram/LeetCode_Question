@@ -18,6 +18,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1854-maximum-population-year](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1854-maximum-population-year) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -58,6 +59,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1331-rank-transform-of-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |
+| [1854-maximum-population-year](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1854-maximum-population-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -101,6 +103,7 @@
 ## Counting
 |  |
 | ------- |
+| [1854-maximum-population-year](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1854-maximum-population-year) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration

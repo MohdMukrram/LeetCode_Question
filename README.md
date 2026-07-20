@@ -18,6 +18,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0724-find-pivot-index) |
 | [0732-my-calendar-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1094-car-pooling) |
@@ -47,6 +48,7 @@
 | [0130-surrounded-regions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0228-summary-ranges) |
+| [0303-range-sum-query-immutable](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0303-range-sum-query-immutable) |
 | [0463-island-perimeter](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0575-distribute-candies) |
@@ -314,6 +316,7 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0303-range-sum-query-immutable) |
 | [0732-my-calendar-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0732-my-calendar-iii) |
 ## Ordered Set
 |  |

@@ -23,6 +23,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0724-find-pivot-index) |
 | [0732-my-calendar-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0732-my-calendar-iii) |
+| [0930-binary-subarrays-with-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
@@ -65,6 +66,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0733-flood-fill) |
+| [0930-binary-subarrays-with-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1020-number-of-enclaves) |
@@ -96,6 +98,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0697-degree-of-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -147,6 +150,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Binary Search

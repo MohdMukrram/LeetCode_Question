@@ -18,6 +18,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0525-contiguous-array) |
@@ -55,6 +56,7 @@
 | [0130-surrounded-regions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0303-range-sum-query-immutable) |
 | [0463-island-perimeter](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0463-island-perimeter) |
@@ -157,6 +159,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -168,6 +171,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0732-my-calendar-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0732-my-calendar-iii) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |

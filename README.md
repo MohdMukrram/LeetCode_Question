@@ -418,4 +418,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->

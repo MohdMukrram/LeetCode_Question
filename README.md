@@ -61,6 +61,7 @@
 | [0035-search-insert-position](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0130-surrounded-regions) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0209-minimum-size-subarray-sum) |
@@ -203,6 +204,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0704-binary-search) |

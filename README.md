@@ -75,6 +75,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0733-flood-fill) |
@@ -198,6 +199,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0732-my-calendar-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0732-my-calendar-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1004-max-consecutive-ones-iii) |

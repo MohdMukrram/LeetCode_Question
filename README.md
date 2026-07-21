@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0523-continuous-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
@@ -107,6 +108,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0424-longest-repeating-character-replacement) |
@@ -316,6 +318,7 @@
 | [0011-container-with-most-water](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |

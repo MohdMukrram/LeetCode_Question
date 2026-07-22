@@ -60,6 +60,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0189-rotate-array) |
@@ -352,6 +353,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0414-third-maximum-number) |

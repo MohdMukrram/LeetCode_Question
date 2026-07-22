@@ -56,6 +56,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -351,6 +352,7 @@
 | [0005-longest-palindromic-substring](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0202-happy-number) |

@@ -69,6 +69,7 @@
 | [0200-number-of-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0228-summary-ranges) |
+| [0274-h-index](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
@@ -358,6 +359,7 @@
 | [0049-group-anagrams](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0179-largest-number) |
+| [0274-h-index](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0414-third-maximum-number) |
@@ -438,4 +440,8 @@
 | [0177-nth-highest-salary](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0181-employees-earning-more-than-their-managers) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

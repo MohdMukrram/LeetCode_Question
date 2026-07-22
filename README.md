@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0542-01-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -62,6 +63,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0130-surrounded-regions) |
@@ -153,6 +155,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |

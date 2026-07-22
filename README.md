@@ -95,6 +95,7 @@
 | [0904-fruit-into-baskets](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -360,6 +361,7 @@
 | [0283-move-zeroes](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0763-partition-labels](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0763-partition-labels) |
+| [0977-squares-of-a-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0977-squares-of-a-sorted-array) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -373,6 +375,7 @@
 | [0347-top-k-frequent-elements](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1331-rank-transform-of-an-array) |

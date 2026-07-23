@@ -10,6 +10,7 @@
 | [0542-01-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0542-01-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0918-maximum-sum-circular-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -98,6 +99,7 @@
 | [0724-find-pivot-index](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0977-squares-of-a-sorted-array) |
@@ -162,6 +164,7 @@
 | [0053-maximum-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -467,4 +470,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0274-h-index) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->

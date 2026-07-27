@@ -18,6 +18,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2272-substring-with-largest-variance](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2272-substring-with-largest-variance) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3620-network-recovery-pathways) |
@@ -172,6 +173,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1657-determine-if-two-strings-are-close) |
+| [2272-substring-with-largest-variance](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2272-substring-with-largest-variance) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1291-sequential-digits) |
+| [2272-substring-with-largest-variance](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2272-substring-with-largest-variance) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -243,6 +246,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1657-determine-if-two-strings-are-close) |
+| [2272-substring-with-largest-variance](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2272-substring-with-largest-variance) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3501-maximize-active-section-with-trade-ii) |

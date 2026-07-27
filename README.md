@@ -168,6 +168,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1657-determine-if-two-strings-are-close](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1657-determine-if-two-strings-are-close) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
@@ -201,6 +202,7 @@
 | [0347-top-k-frequent-elements](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0451-sort-characters-by-frequency) |
+| [1657-determine-if-two-strings-are-close](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1657-determine-if-two-strings-are-close) |
 | [1854-maximum-population-year](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1854-maximum-population-year) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
@@ -234,6 +236,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1657-determine-if-two-strings-are-close) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -429,6 +432,7 @@
 | [1288-remove-covered-intervals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1657-determine-if-two-strings-are-close) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |

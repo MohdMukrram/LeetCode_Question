@@ -237,6 +237,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0680-valid-palindrome-ii) |
@@ -544,6 +545,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0459-repeated-substring-pattern) |
 ## Trie
 |  |
 | ------- |

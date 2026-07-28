@@ -39,6 +39,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1854-maximum-population-year](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1943-describe-the-painting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
@@ -128,6 +129,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1854-maximum-population-year](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1854-maximum-population-year) |
@@ -451,6 +453,7 @@
 | [1288-remove-covered-intervals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1657-determine-if-two-strings-are-close) |
 | [1943-describe-the-painting](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1943-describe-the-painting) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -468,6 +471,7 @@
 | [0680-valid-palindrome-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation

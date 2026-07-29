@@ -100,6 +100,7 @@
 | [0472-concatenated-words](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0472-concatenated-words) |
 | [0523-continuous-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0575-distribute-candies) |
@@ -294,6 +295,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0732-my-calendar-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0732-my-calendar-iii) |

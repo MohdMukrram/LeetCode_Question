@@ -1,12 +1,19 @@
-// This code will crash/fail ONLY on test cases like ["ab", "a"]
+#include <vector>
+#include <string>
+
 class Solution {
 public:
-    string longestCommonPrefix(vector<string>& strs) {
-        for (int i = 0; i < strs[0].size(); i++) {
-            for (int j = 1; j < strs.size(); j++) {
-                // Missing bounds check (i == strs[j].size())
-                if (strs[j][i] != strs[0][i]) 
+    std::string longestCommonPrefix(std::vector<std::string>& strs) {
+        if (strs.empty()) return "";
+
+        // FLAW: Assumes all strings are at least as long as strs[0]
+        // Missing boundary condition: i >= strs[j].size()
+        for (size_t i = 0; i < strs[0].size(); ++i) {
+            char c = strs[0][i];
+            for (size_t j = 1; j < strs.size(); ++j) {
+                if (strs[j][i] != c) { // Will cause Out-Of-Bounds index read on ["ab", "a"]
                     return strs[0].substr(0, i);
+                }
             }
         }
         return strs[0];

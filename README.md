@@ -167,6 +167,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0290-word-pattern) |
@@ -549,6 +550,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0303-range-sum-query-immutable) |
 | [0732-my-calendar-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0732-my-calendar-iii) |
 ## Ordered Set
@@ -611,8 +613,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0002-add-two-numbers) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

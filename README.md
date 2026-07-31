@@ -88,6 +88,7 @@
 | [0056-merge-intervals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0152-maximum-product-subarray) |
@@ -169,6 +170,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0205-isomorphic-strings) |
@@ -358,6 +360,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0547-number-of-provinces) |

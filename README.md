@@ -119,6 +119,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0733-flood-fill) |
+| [0875-koko-eating-bananas](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
@@ -320,6 +321,7 @@
 | [0704-binary-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0732-my-calendar-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0732-my-calendar-iii) |
+| [0875-koko-eating-bananas](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |

@@ -446,6 +446,7 @@
 | [0200-number-of-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0472-concatenated-words) |
 | [0547-number-of-provinces](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0547-number-of-provinces) |
@@ -646,4 +647,12 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0486-predict-the-winner) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->

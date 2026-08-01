@@ -126,6 +126,7 @@
 | [0724-find-pivot-index](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
@@ -477,6 +478,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0977-squares-of-a-sorted-array) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -496,6 +498,7 @@
 | [0472-concatenated-words](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1288-remove-covered-intervals) |
@@ -520,6 +523,7 @@
 | [0680-valid-palindrome-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2856-minimum-array-length-after-pair-removals) |

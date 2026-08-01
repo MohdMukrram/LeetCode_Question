@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0152-maximum-product-subarray) |
 | [0472-concatenated-words](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0472-concatenated-words) |
+| [0486-predict-the-winner](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0542-01-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -56,6 +57,7 @@
 | [0069-sqrtx](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0202-happy-number) |
+| [0486-predict-the-winner](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -107,6 +109,7 @@
 | [0414-third-maximum-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0472-concatenated-words) |
+| [0486-predict-the-winner](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0540-single-element-in-a-sorted-array) |
@@ -627,8 +630,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0486-predict-the-winner) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0146-lru-cache) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

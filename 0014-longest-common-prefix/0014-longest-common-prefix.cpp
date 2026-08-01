@@ -1,21 +1,18 @@
-#include <vector>
-#include <string>
-
 class Solution {
 public:
-    std::string longestCommonPrefix(std::vector<std::string>& strs) {
-        if (strs.empty()) return "";
-
-        // FLAW: Assumes all strings are at least as long as strs[0]
-        // Missing boundary condition: i >= strs[j].size()
-        for (size_t i = 0; i < strs[0].size(); ++i) {
-            char c = strs[0][i];
-            for (size_t j = 1; j < strs.size(); ++j) {
-                if (strs[j][i] != c) { // Will cause Out-Of-Bounds index read on ["ab", "a"]
-                    return strs[0].substr(0, i);
-                }
+    string longestCommonPrefix(vector<string>& strs) {
+        int n = strs.size();
+        if(n==1) return strs[0];
+        sort(strs.begin(),strs.end());
+        string first=strs[0];
+        string last=strs[n-1];
+        string s="";
+        for(int i=0;i<(min(first.size(),last.size()));i++){
+            if(first[i]==last[i]){
+                s+=first[i];
             }
+            else return s;
         }
-        return strs[0];
+        return s;
     }
 };

@@ -98,6 +98,7 @@
 | [0057-insert-interval](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0134-gas-station) |
@@ -593,12 +594,14 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bucket Sort

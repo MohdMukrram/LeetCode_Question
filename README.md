@@ -90,6 +90,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0056-merge-intervals) |
@@ -667,4 +668,8 @@
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2196-create-binary-tree-from-descriptions) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->

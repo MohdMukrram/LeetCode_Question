@@ -644,11 +644,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0486-predict-the-winner) |
 ## Doubly-Linked List
 |  |

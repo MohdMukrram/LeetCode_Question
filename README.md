@@ -98,6 +98,7 @@
 | [0057-insert-interval](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0130-surrounded-regions) |
@@ -275,6 +276,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0179-largest-number) |
@@ -406,6 +408,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0463-island-perimeter) |
@@ -454,6 +457,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0207-course-schedule) |
@@ -679,4 +683,5 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

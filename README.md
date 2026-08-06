@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0097-interleaving-string) |
+| [0131-palindrome-partitioning](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0152-maximum-product-subarray) |
 | [0472-concatenated-words](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0486-predict-the-winner) |
@@ -285,6 +286,7 @@
 | [0079-word-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0290-word-pattern) |
@@ -694,4 +696,5 @@
 | ------- |
 | [0046-permutations](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->

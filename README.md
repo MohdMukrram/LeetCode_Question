@@ -19,6 +19,7 @@
 | [0877-stone-game](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0918-maximum-sum-circular-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1043-partition-array-for-maximum-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1043-partition-array-for-maximum-sum) |
 | [1191-k-concatenation-maximum-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1191-k-concatenation-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1406-stone-game-iii) |
@@ -153,6 +154,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1020-number-of-enclaves) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1043-partition-array-for-maximum-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1043-partition-array-for-maximum-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1109-corporate-flight-bookings) |

@@ -10,6 +10,7 @@
 | [0097-interleaving-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0152-maximum-product-subarray) |
+| [0312-burst-balloons](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0312-burst-balloons) |
 | [0472-concatenated-words](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0542-01-matrix) |
@@ -116,6 +117,7 @@
 | [0274-h-index](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0303-range-sum-query-immutable) |
+| [0312-burst-balloons](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0414-third-maximum-number) |

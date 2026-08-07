@@ -21,6 +21,7 @@
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1043-partition-array-for-maximum-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1043-partition-array-for-maximum-sum) |
 | [1191-k-concatenation-maximum-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1191-k-concatenation-maximum-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -161,6 +162,7 @@
 | [1109-corporate-flight-bookings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1109-corporate-flight-bookings) |
 | [1191-k-concatenation-maximum-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1191-k-concatenation-maximum-sum) |
 | [1260-shift-2d-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1331-rank-transform-of-an-array) |
@@ -436,6 +438,7 @@
 | [1020-number-of-enclaves](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |

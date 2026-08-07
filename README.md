@@ -664,6 +664,7 @@
 | [0183-customers-who-never-order](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0620-not-boring-movies) |
 ## Counting Sort
 |  |
 | ------- |

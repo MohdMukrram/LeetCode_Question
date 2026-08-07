@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0063-unique-paths-ii) |
 | [0097-interleaving-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0097-interleaving-string) |
+| [0120-triangle](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0152-maximum-product-subarray) |
 | [0312-burst-balloons](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0312-burst-balloons) |
@@ -110,6 +111,7 @@
 | [0075-sort-colors](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0134-gas-station) |

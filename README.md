@@ -676,6 +676,7 @@
 | [0595-big-countries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Counting Sort
 |  |
 | ------- |

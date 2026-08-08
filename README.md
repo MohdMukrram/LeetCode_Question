@@ -12,6 +12,7 @@
 | [0120-triangle](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0312-burst-balloons) |
 | [0472-concatenated-words](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0486-predict-the-winner) |
@@ -123,6 +124,7 @@
 | [0189-rotate-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0221-maximal-square](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0283-move-zeroes) |
@@ -440,6 +442,7 @@
 | [0079-word-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0733-flood-fill) |

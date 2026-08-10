@@ -18,12 +18,13 @@ public:
     }
 
     bool stoneGame(vector<int>& piles) {
-        int n = piles.size();
+        // int n = piles.size();
 
-        vector<vector<int>> dp(n, vector<int>(n, -1));
+        // vector<vector<int>> dp(n, vector<int>(n, -1));
 
-        int difference = solve(0, n - 1, piles, dp);
+        // int difference = solve(0, n - 1, piles, dp);
 
-        return difference > 0;
+        // return difference > 0;
+        return true;
     }
 };

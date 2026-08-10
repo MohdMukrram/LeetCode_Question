@@ -31,6 +31,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -80,6 +81,7 @@
 | [1140-stone-game-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
@@ -730,6 +732,7 @@
 | [0877-stone-game](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1510-stone-game-iv) |
 ## Tree
 |  |
 | ------- |
@@ -751,8 +754,18 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

@@ -244,6 +244,7 @@
 | [0904-fruit-into-baskets](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1657-determine-if-two-strings-are-close) |
@@ -419,6 +420,7 @@
 | [0785-is-graph-bipartite](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0802-find-eventual-safe-states) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -534,6 +536,7 @@
 | [0785-is-graph-bipartite](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0802-find-eventual-safe-states) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -585,6 +588,7 @@
 | [0767-reorganize-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1331-rank-transform-of-an-array) |
@@ -767,6 +771,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -779,6 +784,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Backtracking
 |  |

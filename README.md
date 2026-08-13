@@ -324,6 +324,7 @@
 | [0131-palindrome-partitioning](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0316-remove-duplicate-letters) |
@@ -533,6 +534,7 @@
 | [0207-course-schedule](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0472-concatenated-words) |
@@ -779,6 +781,7 @@
 | [0110-balanced-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -794,6 +797,7 @@
 | [0110-balanced-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -804,6 +808,7 @@
 | [0046-permutations](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |

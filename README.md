@@ -394,6 +394,7 @@
 | [0074-search-a-2d-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0704-binary-search) |
@@ -646,6 +647,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -792,6 +794,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -810,6 +813,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0297-serialize-and-deserialize-binary-tree) |

@@ -187,6 +187,7 @@
 | [1288-remove-covered-intervals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -257,6 +258,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1386-cinema-seat-allocation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1657-determine-if-two-strings-are-close) |
 | [1943-describe-the-painting](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1943-describe-the-painting) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -644,6 +646,7 @@
 | [0767-reorganize-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1386-cinema-seat-allocation) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2029-stone-game-ix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2029-stone-game-ix) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -656,6 +659,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0222-count-complete-tree-nodes) |
+| [1386-cinema-seat-allocation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |

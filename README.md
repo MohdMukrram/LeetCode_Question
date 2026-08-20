@@ -548,6 +548,7 @@
 | [0101-symmetric-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0200-number-of-islands) |
@@ -714,6 +715,7 @@
 | [0042-trapping-rain-water](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1106-parsing-a-boolean-expression) |
@@ -784,6 +786,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0021-merge-two-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
@@ -817,6 +820,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -839,6 +843,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |

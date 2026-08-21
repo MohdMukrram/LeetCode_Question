@@ -10,6 +10,7 @@
 | [0063-unique-paths-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0063-unique-paths-ii) |
 | [0097-interleaving-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0174-dungeon-game) |
@@ -549,6 +550,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0200-number-of-islands) |
@@ -821,6 +823,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -844,6 +847,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -888,5 +892,6 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->

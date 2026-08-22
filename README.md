@@ -30,6 +30,7 @@
 | [1191-k-concatenation-maximum-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1191-k-concatenation-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1301-number-of-paths-with-max-score) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1463-cherry-pickup-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -574,6 +575,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1020-number-of-enclaves) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2685-count-the-number-of-complete-components) |
@@ -837,6 +839,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -863,6 +866,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Backtracking
 |  |
@@ -900,11 +904,13 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |

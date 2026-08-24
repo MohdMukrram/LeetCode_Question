@@ -37,6 +37,7 @@
 | [1510-stone-game-iv](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2272-substring-with-largest-variance](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2272-substring-with-largest-variance) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -64,6 +65,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1854-maximum-population-year](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1854-maximum-population-year) |
+| [1872-stone-game-viii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1872-stone-game-viii) |
 | [1943-describe-the-painting](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1943-describe-the-painting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -85,6 +87,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2029-stone-game-ix) |
@@ -201,6 +204,7 @@
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1854-maximum-population-year](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1854-maximum-population-year) |
+| [1872-stone-game-viii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1872-stone-game-viii) |
 | [1943-describe-the-painting](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1943-describe-the-painting) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -819,6 +823,7 @@
 | [1140-stone-game-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2029-stone-game-ix) |
 ## Tree
@@ -889,6 +894,7 @@
 | [0877-stone-game](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -896,6 +902,7 @@
 | [0877-stone-game](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |

@@ -210,6 +210,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -673,6 +674,7 @@
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1927-sum-game](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

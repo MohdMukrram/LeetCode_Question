@@ -943,4 +943,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->

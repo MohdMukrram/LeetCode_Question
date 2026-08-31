@@ -812,6 +812,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0146-lru-cache) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |

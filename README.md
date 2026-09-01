@@ -953,4 +953,5 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->

@@ -167,6 +167,7 @@
 | [0697-degree-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0721-accounts-merge](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0875-koko-eating-bananas) |
@@ -262,6 +263,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0697-degree-of-an-array) |
+| [0721-accounts-merge](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0767-reorganize-string) |
 | [0859-buddy-strings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0859-buddy-strings) |
@@ -372,6 +374,7 @@
 | [0520-detect-capital](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0680-valid-palindrome-ii) |
+| [0721-accounts-merge](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0767-reorganize-string) |
 | [0859-buddy-strings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0859-buddy-strings) |
@@ -457,6 +460,7 @@
 | [0542-01-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0785-is-graph-bipartite) |
@@ -482,6 +486,7 @@
 | [0130-surrounded-regions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1020-number-of-enclaves) |
@@ -591,6 +596,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0785-is-graph-bipartite) |
@@ -649,6 +655,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0977-squares-of-a-sorted-array) |

@@ -25,6 +25,7 @@
 | [0877-stone-game](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0940-distinct-subsequences-ii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1043-partition-array-for-maximum-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1043-partition-array-for-maximum-sum) |
 | [1140-stone-game-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1140-stone-game-ii) |
@@ -387,6 +388,7 @@
 | [0763-partition-labels](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0767-reorganize-string) |
 | [0859-buddy-strings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0859-buddy-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1106-parsing-a-boolean-expression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |

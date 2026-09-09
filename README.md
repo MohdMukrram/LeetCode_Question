@@ -159,6 +159,7 @@
 | [0463-island-perimeter](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0540-single-element-in-a-sorted-array) |
@@ -267,6 +268,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0560-subarray-sum-equals-k) |
@@ -776,6 +778,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1106-parsing-a-boolean-expression) |
 ## Monotonic Stack
@@ -784,6 +787,7 @@
 | [0042-trapping-rain-water](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bucket Sort
 |  |

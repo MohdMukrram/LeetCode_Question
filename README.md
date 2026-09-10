@@ -627,6 +627,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3310-remove-methods-from-project) |
@@ -905,6 +906,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -932,6 +934,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
 | ------- |

@@ -218,6 +218,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1539-kth-missing-positive-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |
@@ -468,6 +469,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2856-minimum-array-length-after-pair-removals) |

@@ -230,6 +230,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1854-maximum-population-year](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1872-stone-game-viii) |
+| [1901-find-a-peak-element-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1901-find-a-peak-element-ii) |
 | [1943-describe-the-painting](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1943-describe-the-painting) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -480,6 +481,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
@@ -582,6 +584,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3568-minimum-moves-to-clean-the-classroom) |

@@ -43,6 +43,7 @@
 | [1872-stone-game-viii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2272-substring-with-largest-variance](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2272-substring-with-largest-variance) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -418,6 +419,7 @@
 | [1927-sum-game](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2272-substring-with-largest-variance](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2272-substring-with-largest-variance) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -682,6 +684,7 @@
 | [0763-partition-labels](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0977-squares-of-a-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -742,6 +745,7 @@
 | [1927-sum-game](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

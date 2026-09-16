@@ -417,6 +417,7 @@
 | [0767-reorganize-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0767-reorganize-string) |
 | [0859-buddy-strings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0859-buddy-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1106-parsing-a-boolean-expression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -827,6 +828,7 @@
 | [0394-decode-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0503-next-greater-element-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1106-parsing-a-boolean-expression) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -1049,4 +1051,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

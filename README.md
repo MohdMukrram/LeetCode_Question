@@ -284,6 +284,7 @@
 | [0146-lru-cache](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
@@ -397,6 +398,7 @@
 | [0131-palindrome-partitioning](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -711,6 +713,7 @@
 | [0056-merge-intervals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |

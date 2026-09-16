@@ -416,6 +416,7 @@
 | [0721-accounts-merge](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0859-buddy-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1021-remove-outermost-parentheses) |
@@ -894,6 +895,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0796-rotate-string) |
 ## Trie
 |  |
 | ------- |

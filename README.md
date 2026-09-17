@@ -429,6 +429,7 @@
 | [1106-parsing-a-boolean-expression](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1106-parsing-a-boolean-expression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1657-determine-if-two-strings-are-close) |
 | [1903-largest-odd-number-in-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1927-sum-game) |
@@ -844,6 +845,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1106-parsing-a-boolean-expression) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1068,4 +1070,5 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

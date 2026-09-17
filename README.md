@@ -317,6 +317,7 @@
 | [1386-cinema-seat-allocation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1657-determine-if-two-strings-are-close) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1943-describe-the-painting](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1943-describe-the-painting) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2272-substring-with-largest-variance](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2272-substring-with-largest-variance) |
@@ -369,6 +370,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0767-reorganize-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1657-determine-if-two-strings-are-close) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1854-maximum-population-year](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1854-maximum-population-year) |
 | [2029-stone-game-ix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2029-stone-game-ix) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -434,6 +436,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1657-determine-if-two-strings-are-close) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2213-longest-substring-of-one-repeating-character) |

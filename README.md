@@ -36,6 +36,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1463-cherry-pickup-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -224,6 +225,7 @@
 | [1406-stone-game-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -311,6 +313,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1657-determine-if-two-strings-are-close) |
 | [1943-describe-the-painting](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1943-describe-the-painting) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -458,6 +461,7 @@
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -487,6 +491,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |

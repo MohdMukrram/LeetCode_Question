@@ -194,6 +194,7 @@
 | [0721-accounts-merge](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0735-asteroid-collision) |
 | [0827-making-a-large-island](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0875-koko-eating-bananas) |
@@ -813,6 +814,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -856,6 +858,7 @@
 | [0394-decode-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |

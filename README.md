@@ -1099,4 +1099,8 @@
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

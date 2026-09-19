@@ -422,6 +422,7 @@
 | [0383-ransom-note](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0451-sort-characters-by-frequency) |
@@ -772,6 +773,7 @@
 | [0134-gas-station](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0680-valid-palindrome-ii) |
@@ -857,6 +859,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0735-asteroid-collision) |
@@ -873,6 +876,7 @@
 | [0042-trapping-rain-water](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0907-sum-of-subarray-minimums) |

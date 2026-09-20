@@ -435,6 +435,7 @@
 | [0763-partition-labels](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0859-buddy-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1021-remove-outermost-parentheses) |
@@ -865,6 +866,7 @@
 | [0496-next-greater-element-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1099,6 +1101,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Range Minimum/Maximum Query

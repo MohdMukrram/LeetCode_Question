@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0063-unique-paths-ii) |
@@ -414,6 +415,7 @@
 | [0013-roman-to-integer](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0076-minimum-window-substring) |
@@ -1062,6 +1064,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0131-palindrome-partitioning) |
@@ -1132,6 +1135,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |

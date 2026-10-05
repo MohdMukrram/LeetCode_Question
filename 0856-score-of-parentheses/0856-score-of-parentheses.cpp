@@ -10,7 +10,7 @@ public:
             } else {
                 int lastScore = stack.top();
                 stack.pop();
-                currentScore = lastScore + std::max(1, 2 * currentScore);
+                currentScore = lastScore + max(1, 2 * currentScore);
             }
         }
         return currentScore;

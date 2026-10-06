@@ -453,6 +453,7 @@
 | [0796-rotate-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0859-buddy-strings) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -808,6 +809,7 @@
 | [0763-partition-labels](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -897,6 +899,7 @@
 | [0856-score-of-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1096-brace-expansion-ii) |
@@ -1141,6 +1144,7 @@
 | [0022-generate-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

@@ -433,6 +433,7 @@
 | [0257-binary-tree-paths](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0383-ransom-note) |
@@ -558,6 +559,7 @@
 | [0207-course-schedule](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0547-number-of-provinces) |
@@ -1075,6 +1077,7 @@
 | [0079-word-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax

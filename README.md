@@ -141,6 +141,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0046-permutations) |
@@ -301,6 +302,7 @@
 | [0001-two-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0076-minimum-window-substring) |
@@ -638,6 +640,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0079-word-search) |
@@ -1100,6 +1103,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0131-palindrome-partitioning) |
@@ -1193,4 +1197,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

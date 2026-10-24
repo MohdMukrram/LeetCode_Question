@@ -112,6 +112,7 @@
 | [1927-sum-game](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -489,6 +490,7 @@
 | [1927-sum-game](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2272-substring-with-largest-variance](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2272-substring-with-largest-variance) |
+| [2409-count-days-spent-together](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

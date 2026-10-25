@@ -227,6 +227,7 @@
 | [1109-corporate-flight-bookings](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1191-k-concatenation-maximum-sum) |
+| [1254-number-of-closed-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -599,6 +600,7 @@
 | [1020-number-of-enclaves](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -619,6 +621,7 @@
 | [0827-making-a-large-island](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MohdMukrram/LeetCode_Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -662,6 +665,7 @@
 | [0994-rotting-oranges](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1301-number-of-paths-with-max-score) |
@@ -744,6 +748,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/MohdMukrram/LeetCode_Question/tree/master/1631-path-with-minimum-effort) |

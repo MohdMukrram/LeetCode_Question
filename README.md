@@ -97,6 +97,7 @@
 | [0069-sqrtx](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0628-maximum-product-of-three-numbers) |
@@ -183,6 +184,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/MohdMukrram/LeetCode_Question/tree/master/0486-predict-the-winner) |
